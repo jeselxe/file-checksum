@@ -1,8 +1,8 @@
-# File Checksum
+# File Checksum
 
 Get the file checksum of a file
 
-## Usage
+## Usage
 
 ```
 USAGE:
